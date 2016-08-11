@@ -6,5 +6,9 @@
   "author": {
     "name": "Administrator",
     "email": ""
+  },
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "soap": "^0.16.0"
   }
 }
