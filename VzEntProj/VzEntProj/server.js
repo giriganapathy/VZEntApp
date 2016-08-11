@@ -9,7 +9,7 @@ var restify = require("restify");
 //var connector = new builder.ConsoleConnector().listen();
 var connector = new builder.ChatConnector({
     "appId": process.env.MICROSOFT_APP_ID,
-    "appSecret": process.env.MICROSOFT_APP_PASSWORD
+    "appPassword": process.env.MICROSOFT_APP_PASSWORD
 });
 //Setting up Restify Server.
 var server = restify.createServer();
