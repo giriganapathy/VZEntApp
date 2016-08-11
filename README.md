@@ -1,2 +1,0 @@
-# VZEntApp
-Entertainment App

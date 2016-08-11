@@ -1,0 +1,10 @@
+{
+  "name": "vz-ent-proj",
+  "version": "0.0.0",
+  "description": "VzEntProj",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator",
+    "email": ""
+  }
+}
